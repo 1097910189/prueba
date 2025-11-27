@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
           children: [
             const Padding(
               padding: EdgeInsets.all(20.0),
-              child: Text("Componente Local (App Host)"),
+              child: Text("Esta es la Super App que contiene la Mini App"),
             ),
 
             Expanded(
