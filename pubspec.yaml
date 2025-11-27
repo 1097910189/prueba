@@ -15,7 +15,7 @@ dependencies:
   testpackage:
     git:
       url: git@ssh.dev.azure.com:v3/ThinkDigital0/semillero_bucaramanga/flutterflow_package_test
-      ref: v1.0.0
+      ref: v1.0.1
   cupertino_icons: ^1.0.8
 
 dev_dependencies:

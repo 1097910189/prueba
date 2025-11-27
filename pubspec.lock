@@ -582,8 +582,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "v1.0.0"
-      resolved-ref: "50a2451e85501d062a688fa9bfbf0d54ee7d2c9b"
+      ref: "v1.0.1"
+      resolved-ref: "5753f971c026feb12e0f8a3c326015ceff2a603a"
       url: "git@ssh.dev.azure.com:v3/ThinkDigital0/semillero_bucaramanga/flutterflow_package_test"
     source: git
     version: "1.0.0+1"
