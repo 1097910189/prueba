@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: Colors.deepPurpleAccent.shade700,
-          title: const Text("Pruebita", style: TextStyle(color: Colors.white)),
+          title: const Text("Super App", style: TextStyle(color: Colors.white)),
         ),
         body: Column( // Quitamos el Center porque Expanded necesita saber límites
           children: [
